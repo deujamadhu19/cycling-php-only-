@@ -26,6 +26,7 @@ exit;
     <ul>
         <li><a href="search_form.php">Search for clubs or participants</a></li>
         <li><a href="view_participants_edit_delete.php">View all participants to either edit or delete</a></li>
+        <li><a href="view_interest.php">View registered interest</a></li>
         <li><a href="login.php?action=logout">Logout</a></li>
    
     </ul> 
